@@ -1,0 +1,37 @@
+[
+  {
+    "first_name": "Akbar",
+    "last_name": "Sehata",
+    "email": "akbarsehata@gmail.com",
+    "gender" : "male",
+    "birth_date" : "1998-01-20"
+  },
+  {
+    "first_name": "Orang",
+    "last_name": "Biasa",
+    "email": "orangbiasa@gmail.com",
+    "gender" : "male",
+    "birth_date" : "1995-05-22"
+  },
+  {
+    "first_name": "Satria",
+    "last_name": "Baja",
+    "email": "satriabaja@gmail.com",
+    "gender" : "male",
+    "birth_date" : "2001-01-01"
+  },
+  {
+    "first_name": "Lucy",
+    "last_name": "Putri",
+    "email": "lucyputri@gmail.com",
+    "gender" : "female",
+    "birth_date" : "1980-01-28"
+  },
+  {
+    "first_name": "Andi",
+    "last_name": "Ardiansyah",
+    "email": "andiardiansyah@gmail.com",
+    "gender" : "male",
+    "birth_date" : "1948-09-08"
+  }
+]
